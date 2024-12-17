@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1734474282 source:d:\stasy\laba_five\main.cpp
+	<iostream>
+	"List.h"
+
+1734474299 d:\stasy\laba_five\list.h
+	<iostream>
+	<stdexcept>
+
